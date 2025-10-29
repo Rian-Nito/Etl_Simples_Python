@@ -1,0 +1,5 @@
+pandas
+SQLAlchemy
+mysql-connector-python
+psycopg2-binary
+python-dotenv
