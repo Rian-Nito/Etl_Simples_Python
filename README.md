@@ -115,8 +115,8 @@ Iniciando carga para a tabela 'copia_pandas_produtos' no PostgreSQL...
 Carga de dados concluída com sucesso!
 Processo finalizado.
 👨‍💻 Autor
-[Seu Nome]
+Rian Nito Verçosa do Nascimento
 
-LinkedIn: https://www.linkedin.com/in/seu-perfil/
+LinkedIn: https://www.linkedin.com/in/rian-nito-233765265/
 
-GitHub: https://github.com/seu-usuario
+GitHub: https://github.com/Rian-Nito
