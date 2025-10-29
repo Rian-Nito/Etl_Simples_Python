@@ -1,4 +1,4 @@
-#🚀 Pipeline de ETL Simples: MySQL para PostgreSQL com Python
+# 🚀 Pipeline de ETL Simples: MySQL para PostgreSQL com Python
 Este é um projeto de demonstração que implementa um script simples de ETL (Extract, Transform, Load) para migrar dados de um banco de dados MySQL para um banco de dados PostgreSQL utilizando Python, Pandas e SQLAlchemy.
 
 Este script foi criado para demonstrar a facilidade com que o Pandas e o SQLAlchemy podem ser usados para criar "engines" de conexão e mover dados entre diferentes sistemas de gerenciamento de bancos de dados (SGBDs).
